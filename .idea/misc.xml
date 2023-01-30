@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/SystemTime/pom.xml" />
         <option value="$PROJECT_DIR$/variable-dataType/pom.xml" />
+        <option value="$PROJECT_DIR$/operator-expression/pom.xml" />
       </list>
     </option>
   </component>

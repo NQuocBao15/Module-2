@@ -6,11 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="variable-dataType" />
         <module name="SystemTime" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="SystemTime" target="19" />
-    </bytecodeTargetLevel>
   </component>
 </project>

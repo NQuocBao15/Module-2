@@ -9,6 +9,10 @@
         <option value="$PROJECT_DIR$/operator-expression/pom.xml" />
         <option value="$PROJECT_DIR$/equation/pom.xml" />
         <option value="$PROJECT_DIR$/day-of-month/pom.xml" />
+        <option value="$PROJECT_DIR$/leap-year-calculator/pom.xml" />
+        <option value="$PROJECT_DIR$/bmi-calculator/pom.xml" />
+        <option value="$PROJECT_DIR$/greeting/pom.xml" />
+        <option value="$PROJECT_DIR$/count-number/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

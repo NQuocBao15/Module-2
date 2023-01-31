@@ -3,12 +3,20 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/SystemTime/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SystemTime/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bmi-calculator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bmi-calculator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/count-number/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/count-number/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/day-of-month/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/day-of-month/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/equation/day-of-month/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/equation/day-of-month/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/equation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/equation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/greeting/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/greeting/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leap-year-calculator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/leap-year-calculator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/operator-expression/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/operator-expression/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/variable-dataType/src/main/java" charset="UTF-8" />

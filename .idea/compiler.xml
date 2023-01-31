@@ -6,8 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="operator-expression" />
         <module name="variable-dataType" />
+        <module name="leap-year-calculator" />
+        <module name="bmi-calculator" />
+        <module name="greeting" />
+        <module name="operator-expression" />
+        <module name="count-number" />
         <module name="day-of-month" />
         <module name="SystemTime" />
       </profile>

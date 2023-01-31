@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="operator-expression" />
         <module name="variable-dataType" />
+        <module name="day-of-month" />
         <module name="SystemTime" />
       </profile>
     </annotationProcessing>

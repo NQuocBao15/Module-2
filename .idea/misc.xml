@@ -13,6 +13,10 @@
         <option value="$PROJECT_DIR$/bmi-calculator/pom.xml" />
         <option value="$PROJECT_DIR$/greeting/pom.xml" />
         <option value="$PROJECT_DIR$/count-number/pom.xml" />
+        <option value="$PROJECT_DIR$/is-prime/pom.xml" />
+        <option value="$PROJECT_DIR$/interest-calculator/pom.xml" />
+        <option value="$PROJECT_DIR$/greate-common-factor/pom.xml" />
+        <option value="$PROJECT_DIR$/drawing-menu/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

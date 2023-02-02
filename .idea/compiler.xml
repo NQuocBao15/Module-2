@@ -9,6 +9,7 @@
         <module name="greate-common-factor" />
         <module name="leap-year-calculator" />
         <module name="greeting" />
+        <module name="find-element-in-array" />
         <module name="operator-expression" />
         <module name="count-number" />
         <module name="is-prime" />

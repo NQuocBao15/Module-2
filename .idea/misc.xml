@@ -19,6 +19,9 @@
         <option value="$PROJECT_DIR$/drawing-menu/pom.xml" />
         <option value="$PROJECT_DIR$/reverse-array/pom.xml" />
         <option value="$PROJECT_DIR$/find-element-in-array/pom.xml" />
+        <option value="$PROJECT_DIR$/find-max-element/pom.xml" />
+        <option value="$PROJECT_DIR$/convert-temperature/pom.xml" />
+        <option value="$PROJECT_DIR$/find-minimum/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

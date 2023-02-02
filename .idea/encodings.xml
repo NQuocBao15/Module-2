@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/SystemTime/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bmi-calculator/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bmi-calculator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/convert-temperature/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/convert-temperature/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/count-number/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/count-number/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/day-of-month/src/main/java" charset="UTF-8" />
@@ -17,6 +19,10 @@
     <file url="file://$PROJECT_DIR$/equation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/find-element-in-array/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/find-element-in-array/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/find-max-element/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/find-max-element/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/find-minimum/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/find-minimum/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/greate-common-factor/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/greate-common-factor/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/greeting/src/main/java" charset="UTF-8" />

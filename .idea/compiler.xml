@@ -7,18 +7,21 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="greate-common-factor" />
+        <module name="convert-temperature" />
         <module name="leap-year-calculator" />
         <module name="greeting" />
         <module name="find-element-in-array" />
         <module name="operator-expression" />
         <module name="count-number" />
         <module name="is-prime" />
+        <module name="find-max-element" />
         <module name="variable-dataType" />
         <module name="reverse-array" />
         <module name="bmi-calculator" />
         <module name="drawing-menu" />
         <module name="interest-calculator" />
         <module name="day-of-month" />
+        <module name="find-minimum" />
         <module name="SystemTime" />
       </profile>
     </annotationProcessing>

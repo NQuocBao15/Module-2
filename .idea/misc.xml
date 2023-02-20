@@ -22,6 +22,16 @@
         <option value="$PROJECT_DIR$/find-max-element/pom.xml" />
         <option value="$PROJECT_DIR$/convert-temperature/pom.xml" />
         <option value="$PROJECT_DIR$/find-minimum/pom.xml" />
+        <option value="$PROJECT_DIR$/static-method/pom.xml" />
+        <option value="$PROJECT_DIR$/static-property/pom.xml" />
+        <option value="$PROJECT_DIR$/calculator-test/pom.xml" />
+        <option value="$PROJECT_DIR$/apj-fizzbuzz/pom.xml" />
+        <option value="$PROJECT_DIR$/animals-fruit/pom.xml" />
+        <option value="$PROJECT_DIR$/DSA-Stack-Queue/pom.xml" />
+        <option value="$PROJECT_DIR$/Java-Collection-Framework/pom.xml" />
+        <option value="$PROJECT_DIR$/Linked-List/pom.xml" />
+        <option value="$PROJECT_DIR$/Thuat-Toan-Tim-Kiem/pom.xml" />
+        <option value="$PROJECT_DIR$/Exception/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

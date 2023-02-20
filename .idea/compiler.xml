@@ -7,23 +7,38 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="greate-common-factor" />
+        <module name="greeting" />
+        <module name="operator-expression" />
+        <module name="static-method" />
+        <module name="bmi-calculator" />
+        <module name="calculator-test" />
+        <module name="find-minimum" />
+        <module name="DSA-Stack-Queue" />
+        <module name="SystemTime" />
         <module name="convert-temperature" />
         <module name="leap-year-calculator" />
-        <module name="greeting" />
         <module name="find-element-in-array" />
-        <module name="operator-expression" />
         <module name="count-number" />
+        <module name="static-property" />
+        <module name="Thuat-Toan-Tim-Kiem" />
         <module name="is-prime" />
         <module name="find-max-element" />
+        <module name="Exception" />
+        <module name="Linked-List" />
         <module name="variable-dataType" />
         <module name="reverse-array" />
-        <module name="bmi-calculator" />
         <module name="drawing-menu" />
         <module name="interest-calculator" />
+        <module name="Java-Collection-Framework" />
         <module name="day-of-month" />
-        <module name="find-minimum" />
-        <module name="SystemTime" />
+        <module name="animals-fruit" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apj-fizzbuzz" target="19" />
+      <module name="fizz-buzz" target="19" />
+      <module name="Java_Collection_Framework" target="19" />
+      <module name="Java_Collection_Framework_" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package com.codegym.hashmap_hashset;
+package com.codegym;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;

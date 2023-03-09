@@ -10,7 +10,9 @@
         <module name="greeting" />
         <module name="operator-expression" />
         <module name="static-method" />
+        <module name="transfer-money" />
         <module name="bmi-calculator" />
+        <module name="IO-TextFile" />
         <module name="calculator-test" />
         <module name="find-minimum" />
         <module name="DSA-Stack-Queue" />

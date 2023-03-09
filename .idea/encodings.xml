@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Exception/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Exception/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IO-TextFile/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IO-TextFile/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Java Collection Framework/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Java Collection Framework/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Java_Collection_Framework_/src/main/java" charset="UTF-8" />
@@ -63,6 +65,8 @@
     <file url="file://$PROJECT_DIR$/static-property/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/thuat-toan-tim-kiem/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/thuat-toan-tim-kiem/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transfer-money/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transfer-money/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/variable-dataType/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/variable-dataType/src/main/resources" charset="UTF-8" />
   </component>

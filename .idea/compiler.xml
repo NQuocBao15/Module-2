@@ -28,6 +28,7 @@
         <module name="Thuat-Toan-Tim-Kiem" />
         <module name="is-prime" />
         <module name="find-max-element" />
+        <module name="prime-number" />
         <module name="Exception" />
         <module name="Linked-List" />
         <module name="variable-dataType" />

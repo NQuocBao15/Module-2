@@ -9,6 +9,7 @@
         <module name="greate-common-factor" />
         <module name="greeting" />
         <module name="operator-expression" />
+        <module name="first-20-integer" />
         <module name="static-method" />
         <module name="print-angle" />
         <module name="transfer-money" />
@@ -47,7 +48,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="read-number" options="--add-exports java.xml/com.sun.org.apache.xpath.internal.objects=ALL-UNNAMED" />
+      <module name="read-number" options="" />
     </option>
   </component>
 </project>

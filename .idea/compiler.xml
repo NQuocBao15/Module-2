@@ -10,6 +10,7 @@
         <module name="greeting" />
         <module name="operator-expression" />
         <module name="static-method" />
+        <module name="print-angle" />
         <module name="transfer-money" />
         <module name="bmi-calculator" />
         <module name="IO-TextFile" />
@@ -19,6 +20,7 @@
         <module name="SystemTime" />
         <module name="convert-temperature" />
         <module name="leap-year-calculator" />
+        <module name="read-number" />
         <module name="find-element-in-array" />
         <module name="count-number" />
         <module name="static-property" />
@@ -42,5 +44,10 @@
       <module name="Java_Collection_Framework" target="19" />
       <module name="Java_Collection_Framework_" target="19" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="read-number" options="--add-exports java.xml/com.sun.org.apache.xpath.internal.objects=ALL-UNNAMED" />
+    </option>
   </component>
 </project>

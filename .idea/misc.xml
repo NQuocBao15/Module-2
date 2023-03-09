@@ -34,6 +34,8 @@
         <option value="$PROJECT_DIR$/Exception/pom.xml" />
         <option value="$PROJECT_DIR$/IO-TextFile/pom.xml" />
         <option value="$PROJECT_DIR$/transfer-money/pom.xml" />
+        <option value="$PROJECT_DIR$/print-angle/pom.xml" />
+        <option value="$PROJECT_DIR$/read-number/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -14,6 +14,7 @@
         <module name="print-angle" />
         <module name="transfer-money" />
         <module name="bmi-calculator" />
+        <module name="S11-DSA-Stack-Queue" />
         <module name="IO-TextFile" />
         <module name="calculator-test" />
         <module name="find-minimum" />
@@ -33,6 +34,7 @@
         <module name="Linked-List" />
         <module name="variable-dataType" />
         <module name="reverse-array" />
+        <module name="S13" />
         <module name="drawing-menu" />
         <module name="interest-calculator" />
         <module name="Java-Collection-Framework" />

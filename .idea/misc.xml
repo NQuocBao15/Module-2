@@ -40,11 +40,13 @@
         <option value="$PROJECT_DIR$/prime-number/pom.xml" />
         <option value="$PROJECT_DIR$/animals-fruit/S11-DSA-Stack-Queue/pom.xml" />
         <option value="$PROJECT_DIR$/S13/pom.xml" />
+        <option value="$PROJECT_DIR$/Main1/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/equation/day-of-month/pom.xml" />
+        <option value="$PROJECT_DIR$/java-collection-framework/Main/pom.xml" />
       </set>
     </option>
   </component>

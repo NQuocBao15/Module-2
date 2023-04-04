@@ -12,6 +12,7 @@
         <module name="first-20-integer" />
         <module name="static-method" />
         <module name="print-angle" />
+        <module name="Main1" />
         <module name="transfer-money" />
         <module name="bmi-calculator" />
         <module name="S11-DSA-Stack-Queue" />
@@ -37,7 +38,6 @@
         <module name="S13" />
         <module name="drawing-menu" />
         <module name="interest-calculator" />
-        <module name="Java-Collection-Framework" />
         <module name="day-of-month" />
         <module name="animals-fruit" />
       </profile>
@@ -47,6 +47,7 @@
       <module name="fizz-buzz" target="19" />
       <module name="Java_Collection_Framework" target="19" />
       <module name="Java_Collection_Framework_" target="19" />
+      <module name="Main" target="19" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
